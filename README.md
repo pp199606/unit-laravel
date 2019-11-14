@@ -9,7 +9,7 @@ Laravel >=5.5 & php >= 7.1.3;
 ## 安装方式
 
 ```yml 
-composer require "smallzhu/unit-laravel";
+composer require smallzhu/unit-laravel;
 ```
 
 ## 配置方式
@@ -21,3 +21,5 @@ Route::get('/', 'unitController@index');
 Route::get('test', 'TestController@index');
 Route::post('/', 'unitController@store')->name('unit.store');
 ```
+
+
