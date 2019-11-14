@@ -1,0 +1,17 @@
+{
+    "name": "smallzhu\/unit-laravel",
+    "description": "a simple version laravel componment test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaozhu",
+            "email": "2254475535@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Smallzhu\\UnitLaravel\\": "src"
+        }
+    }
+}
