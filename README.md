@@ -13,7 +13,7 @@ composer require smallzhu/unit-laravel;
 ```
 
 ## 配置方式
-laravel<=5.5 手动配置``Smallzhu\UnitLaravel\Providers\UnitServiceProvider::class`` 服务到config/app.php服务中
+laravel<=5.5 手动配置 ``Smallzhu\UnitLaravel\Providers\UnitServiceProvider::class`` 服务到config/app.php服务中
 
 ## 解释路由
 ```php
